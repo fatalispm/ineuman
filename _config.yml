@@ -11,11 +11,11 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Your Name # author name
+  name:  Ostap Orishko & Melnyk Ihor
   bio: >- # tell to the world
     The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
     meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # author username
+  username: ineuman # author username
   github: github_username
   twitter: twitter_username
   facebook: facebook_username
